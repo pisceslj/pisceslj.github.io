@@ -28,8 +28,8 @@ defaults:
 paginate: 20
 
 #### Site
-title : Jekyll Jacman
-tagline: A fresh looking and responsive theme for Jekyll
+title : Pisceslj
+tagline: A good boy
 assets: /assets
 url:
 baseurl:
@@ -180,5 +180,5 @@ simple_jekyll_search:
   enable: true
   fulltext: false
 
-gems:
+plugins:
  - jemoji
